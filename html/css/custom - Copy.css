@@ -295,7 +295,6 @@ ul.f-menu-icon li:first-child{
   flex: 25%;
   max-width: 25%;
   padding: 0 8px;
-  
 }
 
 .column-small img {
@@ -363,13 +362,6 @@ ul.f-menu-icon li:first-child{
   flex: 33%;
   max-width: 33%;
   padding: 0 8px;
-}
-
-.icon-btm
-{
-	position: relative;
-    bottom: 0px;
-	width:100%;
 }
 
 }
